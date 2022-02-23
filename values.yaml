@@ -1,0 +1,6 @@
+spec:
+  destination:
+    server: https://kubernetes.default.svc
+  source:
+    repoURL: https://github.com/turkelk/sh2-infra-apps
+    targetRevision: HEAD
